@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Pro — Product & Service Business Suite",
+  "description": "Unified operations and client commerce platform for hybrid businesses offering curated products and specialized services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
